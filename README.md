@@ -1,4 +1,4 @@
-# Bharath-inten
+
 # House-price-prediction
 
 Summary of Code for House Price Prediction
